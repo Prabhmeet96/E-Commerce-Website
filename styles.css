@@ -176,12 +176,6 @@ button:active {
 }
 
 
-/* 
-
-LANDING
-
-*/
-
 #landing {
   background-color: rgba(115, 66, 214, 0.1)
 }
@@ -208,9 +202,6 @@ header {
 
 .header__img--wrapper {
   padding: 20px;
-
-  /* Added this after the tutorial to 
-  show it over the wave on larger screens */
   z-index: 50;
 }
 
